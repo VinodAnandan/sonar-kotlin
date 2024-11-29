@@ -2,6 +2,7 @@ Code Quality and Security for Kotlin
 ==========
 
 [![Build Status](https://api.cirrus-ci.com/github/SonarSource/sonar-kotlin.svg?branch=master)](https://cirrus-ci.com/github/SonarSource/sonar-kotlin) [![Quality Gate Status](https://next.sonarqube.com/sonarqube/api/project_badges/measure?project=org.sonarsource.kotlin%3Akotlin&metric=alert_status)](https://next.sonarqube.com/sonarqube/dashboard?id=org.sonarsource.kotlin%3Akotlin) [![Coverage](https://next.sonarqube.com/sonarqube/api/project_badges/measure?project=org.sonarsource.kotlin%3Akotlin&metric=coverage)](https://next.sonarqube.com/sonarqube/dashboard?id=org.sonarsource.kotlin%3Akotlin)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVinodAnandan%2Fsonar-kotlin.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FVinodAnandan%2Fsonar-kotlin?ref=badge_shield)
 
 This SonarSource project is a code analyzer for Kotlin projects to help developers write [Clean Code](https://www.sonarsource.com/solutions/clean-code/?utm_medium=referral&utm_source=github&utm_campaign=clean-code&utm_content=sonar-kotlin).
 
@@ -155,3 +156,6 @@ are published under the [Sonar Source-Available License Version 1 (SSALv1)](LICE
 
 See individual files for details that specify the license applicable to each file.
 Files subject to the SSALv1 will be noted in their headers.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVinodAnandan%2Fsonar-kotlin.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FVinodAnandan%2Fsonar-kotlin?ref=badge_large)
